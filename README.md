@@ -4,14 +4,16 @@
 
 > 스터디를 진행할 repository 입니다.<br/>문제: https://www.acmicpc.net/workbook/codeplus<br/> 
 
+</br>
+
 ## 히스토리
-Algorithm-Strudy1: https://shorturl.at/kLT38 기간 : 23.04.24 ~ 23.07.29
+Algorithm-Strudy1: https://shorturl.at/kLT38 (23.04.24 ~ 23.07.29)
 
-Algorithm-Study-Rest: https://github.com/Hediar/Algorithm-Study-Rest 기간 : 23.07.31 ~ 23.08.20
+Algorithm-Study-Rest: https://github.com/Hediar/Algorithm-Study-Rest (23.07.31 ~ 23.08.20)
 
-Algorithm-Strudy2: https://github.com/Hediar/Algorithm-Study2 기간 : 23.08.23 ~ 23.11.05
+Algorithm-Strudy2: https://github.com/Hediar/Algorithm-Study2 (23.08.23 ~ 23.11.05)
 
-Algorithm-Strudy3: 현재 기간 : 23.11.05 ~ ing
+Algorithm-Strudy3: 현재 (23.11.05 ~ ing)
 
 <br />
 
