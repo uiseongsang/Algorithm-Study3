@@ -56,7 +56,13 @@ fork -> 각자 이름으로 폴더 생성 -> add/commit/push -> 일요일까지 
 
 |                           주차                            |                              문제 번호 및 이름                              |                                        분류                                        |                                       난이도                                       |
 | :-------------------------------------------------------: | :-------------------------------------------------------------------------: | :--------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------: |
-(23.11.06 ~ 23.11.12) <br /> 1주차| [4963 - 섬의 개수](https://www.acmicpc.net/problem/4963) | BFS | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |
-| 1주차<br /> | [6588 - 골드바흐의 추측](https://www.acmicpc.net/problem/2193) | 수학 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
-| 1주차<br /> | [1080 - 행렬](https://www.acmicpc.net/problem/1080) | 그리디 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
+(23.11.06 ~ 23.11.19) <br /> 1,2주차| [4963 - 섬의 개수](https://www.acmicpc.net/problem/4963) | BFS | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |
+| 1,2주차<br /> | [6588 - 골드바흐의 추측](https://www.acmicpc.net/problem/2193) | 수학 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
+| 1,2주차<br /> | [1080 - 행렬](https://www.acmicpc.net/problem/1080) | 그리디 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
+(23.11.20 ~ 23.11.26) <br /> 3주차| [10819 - 차이를 최대로](https://www.acmicpc.net/problem/10819) | 백트래킹 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |
+| 3주차<br /> | [21608 - 상어 초등학교](https://www.acmicpc.net/problem/21608) | 구현 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
+| 3주차<br /> | [2212 - 센서](https://www.acmicpc.net/problem/2212) | 그리디 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
+(23.11.27 ~ 23.12.03) <br /> 4주차| [17144 - 미세먼지 안녕!](https://www.acmicpc.net/problem/17144) | 구현 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
+| 4주차<br /> | [18428 - 감시 피하기](https://www.acmicpc.net/problem/18428) | 백트레킹 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
+| 4주차<br /> | [1946 - 신입 사원](https://www.acmicpc.net/problem/1946) | 그리디 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
 
