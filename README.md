@@ -65,4 +65,7 @@ fork -> 각자 이름으로 폴더 생성 -> add/commit/push -> 일요일까지 
 (23.11.27 ~ 23.12.03) <br /> 4주차| [17144 - 미세먼지 안녕!](https://www.acmicpc.net/problem/17144) | 구현 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
 | 4주차<br /> | [18428 - 감시 피하기](https://www.acmicpc.net/problem/18428) | 백트레킹 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
 | 4주차<br /> | [1946 - 신입 사원](https://www.acmicpc.net/problem/1946) | 그리디 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
+(23.12.04 ~ 23.12.10) <br /> 5주차| [1283 - 단축키 지정](https://www.acmicpc.net/problem/1283) | 구현 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
+| 5주차<br /> | [17141 - 연구소 2](https://www.acmicpc.net/problem/17141) | 백트레킹 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
+| 5주차<br /> | [2251 - 물통](https://www.acmicpc.net/problem/2251) | BFS/DFS | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
 
