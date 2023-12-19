@@ -68,4 +68,7 @@ fork -> 각자 이름으로 폴더 생성 -> add/commit/push -> 일요일까지 
 (23.12.04 ~ 23.12.10) <br /> 5주차| [1283 - 단축키 지정](https://www.acmicpc.net/problem/1283) | 구현 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
 | 5주차<br /> | [17141 - 연구소 2](https://www.acmicpc.net/problem/17141) | 백트레킹 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
 | 5주차<br /> | [2251 - 물통](https://www.acmicpc.net/problem/2251) | BFS/DFS | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
+(23.12.18 ~ 23.12.24) <br /> 7주차| [13164 - 행복 유치원](https://www.acmicpc.net/problem/13164) | 그리디 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
+| 7주차<br /> | [14719 - 빗물](https://www.acmicpc.net/problem/14719) | 구현 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
+| 7주차<br /> | [1504 - 특정한 최단 경로](https://www.acmicpc.net/problem/2251) | 그래프 이론 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
 
